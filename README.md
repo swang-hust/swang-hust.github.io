@@ -1,2 +1,2 @@
 # swang-hust.github.io
-Personal Website.
+This is my personal website, which is write with [ jemdoc](http://jemdoc.jaboc.net/index.html).
