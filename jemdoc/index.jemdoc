@@ -22,11 +22,21 @@ Advisor: [http://faculty.hust.edu.cn/wufei1/zh_CN/index.htm Fei Wu]
 
 - email: [wang_shuai@hust.edu.cn wang_shuai@hust.edu.cn]
 
-== Current Work
+== Current Works
 
 - Learning [https://en.wikipedia.org/wiki/F2FS F2FS Filesystem].
 
-- Learning [https://github.com/ucare-uchicago/femu femu], a NVMe SSD Emulator based upon QEMU/KVM.
+- Learning Key-Value Store.
+
+- Learning LSM-Tree.
+
+- Learning Multi-Tenant SSD QoS.
+
+== History Works
+
+- [https://github.com/zuoerfeng/3Dsim 3Dsim], SSD Simulator.
+
+- [https://github.com/ucare-uchicago/femu femu], NVMe SSD Emulator based upon QEMU/KVM.
 
 == Research
 
